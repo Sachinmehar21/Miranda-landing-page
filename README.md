@@ -1,6 +1,5 @@
-# Yubo-Socialnetworking
-
-Miranda Website Clone is a meticulous replication of Niccolò Miranda's award-winning portfolio site, recognized as Awwwards Site of the Month. This project, built using HTML and CSS, captures the essence of the original site with impressive animations and a modern design. The clone aims to showcase the best practices in frontend development, focusing on clean code, responsive design, and engaging user experiences.
+# Miranda-landing-page
+ation of Niccolò Miranda's award-winning portfolio site, recognized as Awwwards Site of the Month. This project, built using HTML and CSS, captures the essence of the original site with impressive animations and a modern design. The clone aims to showcase the best practices in frontend development, focusing on clean code, responsive design, and engaging user experiences.
 
 ### Hosted on: [https://github.com/Sachinmehar21/Miranda-landing-page](https://sachinmehar21.github.io/Miranda-landing-page/)
 
